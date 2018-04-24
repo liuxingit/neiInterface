@@ -1,0 +1,20 @@
+{
+  "name": "nei-interface",
+  "version": "1.0.12",
+  "description": "auto create interface by nei",
+  "main": "index.js",
+  "bin": {
+    "neiI": "bin/nei-interface.js"
+  },
+  "keywords": [
+    "interface",
+    "ts",
+    "nei"
+  ],
+  "author": "liuxin",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "commander": "^2.15.1"
+  }
+}
